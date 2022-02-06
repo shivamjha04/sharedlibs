@@ -1,2 +1,2 @@
 def call(name):
-  sh"Hi ${name}, How you doin? "
+  echo "Hi ${name}, How you doin? "
